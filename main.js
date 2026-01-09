@@ -7,7 +7,7 @@ const defaultCars = [
     { id: 2, model: "BMW X5", year: 2022, price: 120, owner: "Анна", ownerLogin: "anna", phone: "097-987-65-43", image: "https://placehold.co/400x250?text=BMW", isBooked: false, bookedBy: null },
     { id: 3, model: "Audi Q7", year: 2021, price: 100, owner: "Олег", ownerLogin: "oleg", phone: "111-111", image: "https://placehold.co/400x250?text=Audi", isBooked: false, bookedBy: null },
     { id: 4, model: "Tesla Model 3", year: 2023, price: 90, owner: "Ілон", ownerLogin: "elon", phone: "222-222", image: "https://placehold.co/400x250?text=Tesla", isBooked: false, bookedBy: null },
-    { id: 5, model: "Lanos", year: 2008, price: 20, owner: "Василь", ownerLogin: "vasya", phone: "333-333", image: "https://placehold.co/400x250?text=Lanos", isBooked: false, bookedBy: null },
+    { id: 5, model: "Lanos", year: 2008, price: 20, owner: "Вадим", ownerLogin: "vasya", phone: "333-333", image: "https://placehold.co/400x250?text=Lanos", isBooked: false, bookedBy: null },
     { id: 6, model: "Porsche Cayenne", year: 2022, price: 150, owner: "Анна", ownerLogin: "anna", phone: "444-444", image: "https://placehold.co/400x250?text=Porsche", isBooked: false, bookedBy: null },
     { id: 7, model: "Honda Civic", year: 2019, price: 40, owner: "Олег", ownerLogin: "oleg", phone: "555-555", image: "https://placehold.co/400x250?text=Honda", isBooked: false, bookedBy: null }
 ];
